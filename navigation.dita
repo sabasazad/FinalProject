@@ -25,18 +25,18 @@
                 </area>
                 <area>
                     <shape>rect</shape>
-                    <coords>576, 4, 736, 245</coords>
+                    <coords>576, 3, 736, 244</coords>
                     <xref href="how_does_facebook_sharing_work.dita" format="dita">how does facebook
                         sharing work?</xref>
                 </area>
                 <area>
                     <shape>rect</shape>
-                    <coords>739, 6, 888, 242</coords>
+                    <coords>741, 10, 890, 246</coords>
                     <xref href="sharing_types.dita" format="dita">sharing types</xref>
                 </area>
                 <area>
                     <shape>rect</shape>
-                    <coords>4, 248, 167, 488</coords>
+                    <coords>6, 250, 169, 490</coords>
                     <xref href="adding_facebook_friends.dita" format="dita">adding facebook
                         friends</xref>
                 </area>
@@ -48,7 +48,7 @@
                 </area>
                 <area>
                     <shape>rect</shape>
-                    <coords>337, 249, 571, 489</coords>
+                    <coords>338, 247, 572, 487</coords>
                     <xref href="why_use_facebook.dita" format="dita">why use facebook?</xref>
                 </area>
                 <area>
