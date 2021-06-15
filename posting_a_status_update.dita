@@ -2,13 +2,19 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="posting_a_status_update">
     <title>Posting a Status Update</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This document list steps about how to post a status update using the facebook
+        app.</shortdesc>
     <taskbody>
-        <prereq id="prereq_rkv_3p2_wpb"/>
+        <prereq id="prereq_rkv_3p2_wpb">
+            <p conref="creating_a_facebook_account.dita#creating_a_facebook_account/before_begin"/>
+            <p>Open facebook app.</p>
+        </prereq>
         <context>
-            <p>1. goal?</p>
-            <p>2. right task?</p>
-            <p>3. when/why?</p>
+            <p>1. This task describes the steps to post a status update in the facebook app.</p>
+            <p>2. Use this task to post a status update on your facebook account timeline and
+                newfeed.</p>
+            <p>3. If you want to post a status update on your facebook account timeline and
+                newsfeed, use this task.</p>
         </context>
         <steps>
             <step>
@@ -34,6 +40,9 @@
         </steps>
         <result id="result_al2_vfg_5pb">Your status update will appear on your timeline and
             newsfeed.</result>
-        <example/>
+        <example>
+            <image placement="break" href="images/post%20status%20update%201.png" scale="50"
+                align="left" id="image_c3g_wll_ypb"/>
+        </example>
     </taskbody>
 </task>

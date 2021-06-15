@@ -4,5 +4,12 @@
     <title>Sharing Types</title>
     <shortdesc>status update, posting on friends' timeline, photos, links, feeling/activity,
         location, likes, comments and resharing.</shortdesc>
-    <refbody/>
+    <refbody>
+        <example>
+            <p>
+                <image placement="break" href="images/sharing%20types%201.png" scale="50"
+                    align="left" id="image_n2c_ckl_ypb"/>
+            </p>
+        </example>
+    </refbody>
 </reference>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Author 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " collection-type="sequence" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:33" xtrf="file:/C:/FinalProject/facebookapp.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Facebook for iPhone App - User Guide</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Facebook for iPhone App - User Guide</title>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="navigation"><resourceid appid="navigation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Navigation</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_facebook"><resourceid appid="what_is_facebook" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">What is Facebook?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Facebook is a social media application.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="why_use_facebook"><resourceid appid="why_use_facebook" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Why use Facebook?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Facebook can be used to connect and share with people and businesses.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="downloading_the_facebook_iphone_app"><resourceid appid="downloading_the_facebook_iphone_app" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Downloading the Facebook iPhone App</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Facebook iPhone App can be downloaded from the Apple AppStore.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="creating_a_facebook_account"><resourceid appid="creating_a_facebook_account" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Creating a Facebook Account</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Create a Facebook Account in your Facebook App on your iPhone to use Facebook to         share and connect with people and businesses.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="navigating_the_facebook_app"><resourceid appid="navigating_the_facebook_app" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Navigating the Facebook App</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This document shows the different navigation options available in the facebook         app.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="adding_facebook_friends"><resourceid appid="adding_facebook_friends" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Adding Facebook Friends</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This document describes how to add facebook friends.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="how_does_facebook_sharing_work"><resourceid appid="how_does_facebook_sharing_work" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How does Facebook sharing work?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This document describes the ways how facebook sharing works.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="posting_a_status_update"><resourceid appid="posting_a_status_update" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Posting a Status Update</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This document list steps about how to post a status update using the facebook         app.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="sharing_types"><resourceid appid="sharing_types" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Sharing Types</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">status update, posting on friends' timeline, photos, links, feeling/activity,         location, likes, comments and resharing.</shortdesc></topicmeta></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_11" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="notification_types"><resourceid appid="notification_types" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Notification Types</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">push notifications, in-app notifications.</shortdesc></topicmeta></topicref>
+</opentopic:map><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="navigation" oid="navigation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Navigation</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">
+            <imagemap class="+ topic/fig ut-d/imagemap " id="unique_1_Connect_42_imagemap_zfq_wpp_xpb" nd:nd-id="imagemap_zfq_wpp_xpb"><image class="- topic/image " href="file:/C:/FinalProject/images/grid%2010.png" id="unique_1_Connect_42_image_rsp_cpp_xpb" nd:nd-id="image_rsp_cpp_xpb" placement="inline"/><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">0, 0, 167, 248</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_2" type="task"><?ditaot usertext?>navigating the
+                        facebook app<?ditaot genshortdesc?><desc class="- topic/desc ">This document shows the different navigation options available in the facebook         app.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">171, 7, 331, 245</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_3" type="task"><?ditaot usertext?>downloading
+                        the facebook iphone app<?ditaot genshortdesc?><desc class="- topic/desc "> Facebook iPhone App can be downloaded from the Apple AppStore.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">342, 5, 568, 243</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_4" type="concept"><?ditaot usertext?>what is facebook?<?ditaot genshortdesc?><desc class="- topic/desc ">Facebook is a social media application.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">576, 3, 736, 244</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_5" type="concept"><?ditaot usertext?>how does facebook
+                        sharing work?<?ditaot genshortdesc?><desc class="- topic/desc ">This document describes the ways how facebook sharing works.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">742, 4, 891, 243</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_6" type="reference"><?ditaot usertext?>sharing types<?ditaot genshortdesc?><desc class="- topic/desc ">status update, posting on friends' timeline, photos, links, feeling/activity,         location, likes, comments and resharing.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">6, 250, 169, 490</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_7" type="task"><?ditaot usertext?>adding facebook
+                        friends<?ditaot genshortdesc?><desc class="- topic/desc ">This document describes how to add facebook friends.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">164, 247, 336, 493</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_8" type="task"><?ditaot usertext?>creating a facebook
+                        account<?ditaot genshortdesc?><desc class="- topic/desc ">Create a Facebook Account in your Facebook App on your iPhone to use Facebook to         share and connect with people and businesses.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">338, 247, 572, 487</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_9" type="concept"><?ditaot usertext?>why use facebook?<?ditaot genshortdesc?><desc class="- topic/desc ">Facebook can be used to connect and share with people and businesses.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">574, 253, 736, 496</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_10" type="task"><?ditaot usertext?>posting a status
+                        update<?ditaot genshortdesc?><desc class="- topic/desc ">This document list steps about how to post a status update using the facebook         app.</desc></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">742, 247, 889, 492</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_11" type="reference"><?ditaot usertext?>notification types<?ditaot genshortdesc?><desc class="- topic/desc ">push notifications, in-app notifications.</desc></xref>
+                </area></imagemap>
+        </p>
+    </body>
+</topic><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="what_is_facebook" oid="what_is_facebook" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Facebook?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Facebook is a social media application.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Facebook is a<b class="+ topic/ph hi-d/b "> free social networking site </b>that makes it easy for you to<b class="+ topic/ph hi-d/b "> connect
+                and share</b> with family and friends online. Originally designed for college
+            students, Facebook was created in 2004 by Mark Zuckerberg while he was enrolled at
+            Harvard University. By 2006,<b class="+ topic/ph hi-d/b "> anyone</b> over the age of 13 with a valid email address
+            could join Facebook. Today, Facebook is the world's largest social network, with <b class="+ topic/ph hi-d/b ">more
+                than</b>
+            <b class="+ topic/ph hi-d/b ">1 billion users </b>worldwide.</p>
+    </conbody>
+</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="why_use_facebook" oid="why_use_facebook" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why use Facebook?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Facebook can be used to connect and share with people and businesses.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Have you ever wondered why people like using Facebook? After all, there are already a lot
+            of other ways to communicate online, like through email, instant messaging, and so on.
+            What makes Facebook unique is the ability to <b class="+ topic/ph hi-d/b ">connect and share</b> with the people
+            you care about at the same time.</p>
+        <p class="- topic/p ">For many, having a Facebook account is now an expected part of being online, much like
+            having your own email address. And because Facebook is so popular, other websites have
+            worked to <b class="+ topic/ph hi-d/b ">integrate Facebook</b>. This means you can use a single Facebook account to
+            sign in to different services across the Web.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/FinalProject/images/why%20use%20facebook%201.png" id="unique_9_Connect_42_image_hwn_ysc_ypb" nd:nd-id="image_hwn_ysc_ypb" placement="inline" width="390" height="271" scale="50"/></p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/FinalProject/images/why%20use%20facebook%202.png" id="unique_9_Connect_42_image_d4d_dtc_ypb" nd:nd-id="image_d4d_dtc_ypb" placement="inline" width="395" height="274" scale="50"/></p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/FinalProject/images/why%20use%20facebook%203.png" id="unique_9_Connect_42_image_idh_ktc_ypb" nd:nd-id="image_idh_ktc_ypb" placement="inline" width="391" height="270" scale="50"/></p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="downloading_the_facebook_iphone_app" oid="downloading_the_facebook_iphone_app" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Downloading the Facebook iPhone App</ph></title>
+    <shortdesc class="- topic/shortdesc "> Facebook iPhone App can be downloaded from the Apple AppStore.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_glq_gn2_wpb" nd:nd-id="prereq_glq_gn2_wpb"/>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">1. This task will show you steps to download facebook iPhone App.</p>
+            <p class="- topic/p ">2. You need to download the Facebook App to use Facebook on an iPhone.</p>
+            <p class="- topic/p ">3. You will download the App to use Facebook on your iPhone to share and connect with
+                people and businesses. </p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To download the App, Search Facebook on the Apple AppStore.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap this (cloud with down arrow) button to begin downloading the App.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">When the download is complete, Press the Open button or locate and tap the
+                    Facebook icon on the iPhone screen. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_ysr_kn2_wpb" nd:nd-id="result_ysr_kn2_wpb">You have the Facebook App on your iPhone.</result>
+        <example class="- topic/example "><image class="- topic/image " href="file:/C:/FinalProject/images/apple-iphone-select-facebook-app.jpg" id="unique_3_Connect_42_image_vgf_v5f_xpb" nd:nd-id="image_vgf_v5f_xpb" placement="inline" width="325" height="320" scale="50"/></example>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="creating_a_facebook_account" oid="creating_a_facebook_account" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Creating a Facebook Account</ph></title>
+    <shortdesc class="- topic/shortdesc ">Create a Facebook Account in your Facebook App on your iPhone to use Facebook to
+        share and connect with people and businesses.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_sdh_n42_wpb" nd:nd-id="prereq_sdh_n42_wpb">
+            <p class="- topic/p " id="unique_8_Connect_42_before_begin" nd:nd-id="before_begin">Download Facebook app from the AppStore.</p>
+            <p class="- topic/p ">
+                <image align="left" alt="App Store" class="- topic/image " href="file:/C:/FinalProject/images/download%20facebook%20app%20on%20iphone.png" id="unique_8_Connect_42_image_knr_y5c_ypb" nd:nd-id="image_knr_y5c_ypb" placement="break" width="154" height="332" scale="50"/>
+            </p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">1. Use the steps mentioned here to create a new facebook account on the facebook
+                app.</p>
+            <p class="- topic/p ">2. Creating a new facebook account is necessary before you can use the facebook
+                app.</p>
+            <p class="- topic/p ">3. Facebook app requires you to create a free account in order to use their social
+                media application.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap the icon to start the App.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap Sign Up for Facebook.<image align="left" class="- topic/image " href="file:/C:/FinalProject/images/Create%20an%20account%20facebook.png" id="unique_8_Connect_42_image_bh2_2gl_ypb" nd:nd-id="image_bh2_2gl_ypb" placement="break" width="206" height="307" scale="50"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap Get Started to Begin.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter an email address or phone number.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your name.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Create a password.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Next, you'll need to add some basic information about yourself.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Once you are finished, you'll have a chance to set your profile picture.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You can take a new picture or you can choose from one on your camera
+                    roll.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Finally, you'll have a chance to search for people you already know on Facebook
+                    so you can quickly begin adding friends. But if you decide to skip this step for
+                    now, you'll still be able to search and add friends at a later time.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_fz2_s42_wpb" nd:nd-id="result_fz2_s42_wpb">You have a new facebook account. You can log in with this
+            new account.</result>
+        <example class="- topic/example ">
+            <image align="left" class="- topic/image " href="file:/C:/FinalProject/images/Create%20an%20account%20facebook%202.png" id="unique_8_Connect_42_image_kpm_pgl_ypb" nd:nd-id="image_kpm_pgl_ypb" placement="break" width="163" height="282" scale="50"/>
+        </example>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="navigating_the_facebook_app" oid="navigating_the_facebook_app" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Navigating the Facebook App</ph></title>
+    <shortdesc class="- topic/shortdesc ">This document shows the different navigation options available in the facebook
+        app.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_before_begin_nav" nd:nd-id="before_begin_nav">
+            <p class="- topic/p ">Download Facebook app from the AppStore.</p>
+            <p class="- topic/p ">Open facebook app.<image align="left" class="- topic/image " href="file:/C:/FinalProject/images/navigating%20facebook%20app%201.png" id="unique_2_Connect_42_image_jmt_mjl_ypb" nd:nd-id="image_jmt_mjl_ypb" placement="break" width="456" height="342" scale="50"/></p>
+            <p class="- topic/p ">Create a facebook user account.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">1. This task focuses on effectively navigationg through the different options
+                available in the facebook app.</p>
+            <p class="- topic/p ">2. This task can be used as a resource to share your status, photo or your location
+                in the facebook app.</p>
+            <p class="- topic/p ">3. These steps can be performed to navigate in the facebook app.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Locate the Navigation bar in the App.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Update your status using the status option.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Share a photo with the photo option.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Check-in at a location using the check-in option.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap Search at the top of the screen to search for people, groups or
+                        organizations.<image align="left" class="- topic/image " href="file:/C:/FinalProject/images/search%20bar%20facebook.png" id="unique_2_Connect_42_image_ppm_gkl_ypb" nd:nd-id="image_ppm_gkl_ypb" placement="break" width="455" height="325" scale="50"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">This button allows you to accept Friend requests.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">This button allows you to get messages.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">This button allows you to get notifications.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">This button brings you more options.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go back to your news feed by tapping this button. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_x1n_1p2_wpb" nd:nd-id="result_x1n_1p2_wpb">You now know the different sharing options avaiable it you
+            through the facebook app. </result>
+        <example class="- topic/example ">
+            <image align="left" class="- topic/image " href="file:/C:/FinalProject/images/navigating%20facebook%20app%202.png" id="unique_2_Connect_42_image_kzy_kkl_ypb" nd:nd-id="image_kzy_kkl_ypb" placement="break" width="456" height="321" scale="50"/>
+        </example>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="adding_facebook_friends" oid="adding_facebook_friends" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Adding Facebook Friends</ph></title>
+    <shortdesc class="- topic/shortdesc ">This document describes how to add facebook friends.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_7_Connect_42_prereq_yv2_ndg_5pb" nd:nd-id="prereq_yv2_ndg_5pb">You should have your facebook profile or create one before
+            you begin this task .</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">1. You can add new facebook friends using the steps mentioned in this task.</p>
+            <p class="- topic/p ">2. If you want to add new friends on facebook, use this task.</p>
+            <p class="- topic/p ">3. New facebook friends can be added to your facebook account using these steps.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap the friends button to see a list of people you may know.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you see someone you know, you can send them a friend request by tapping
+                    Add.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap this button on top to see more options.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">From here you can see Friend suggestions, Search for friends, Connect with
+                    friends through your contacts, and View your current friends.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You can respond to Friend requests here too.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To accept a friend request, tap Confirm.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You can tap for friends by tapping Search, then typing in a friend's
+                    name.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_bcx_fp2_wpb" nd:nd-id="result_bcx_fp2_wpb"/>
+        <example class="- topic/example ">
+            <image align="left" class="- topic/image " href="file:/C:/FinalProject/images/facebook%20friends.png" id="unique_7_Connect_42_image_ur1_cnl_ypb" nd:nd-id="image_ur1_cnl_ypb" placement="break" width="235" height="216" scale="50"/>
+        </example>
+    </taskbody>
+</task><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_does_facebook_sharing_work" oid="how_does_facebook_sharing_work" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How does Facebook sharing work?</ph></title>
+    <shortdesc class="- topic/shortdesc ">This document describes the ways how facebook sharing works.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p audience="novice" class="- topic/p ">Facebook allows you to <b class="+ topic/ph hi-d/b ">send</b>
+            <b class="+ topic/ph hi-d/b ">messages </b>and<b class="+ topic/ph hi-d/b "> post status updates</b> to keep in touch with friends and family.
+            You can also share different types of content, like <b class="+ topic/ph hi-d/b ">photos </b>and<b class="+ topic/ph hi-d/b "> links</b>. But
+            sharing something on Facebook is a bit different from other types of online
+            communication. Unlike email or instant messaging, which are relatively private, the
+            things you share on Facebook are<b class="+ topic/ph hi-d/b "> more public</b>, which means they'll usually be seen
+            by many other people.</p>
+        <p audience="expert" class="- topic/p ">While Facebook offers privacy tools to help you limit who can see the
+            things you share, it's important to understand that Facebook is designed to be more
+                <b class="+ topic/ph hi-d/b ">open and social</b> than traditional communication tools. </p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="posting_a_status_update" oid="posting_a_status_update" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Posting a Status Update</ph></title>
+    <shortdesc class="- topic/shortdesc ">This document list steps about how to post a status update using the facebook
+        app.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_10_Connect_42_prereq_rkv_3p2_wpb" nd:nd-id="prereq_rkv_3p2_wpb">
+            <p class="- topic/p ">Download Facebook app from the AppStore.</p>
+            <p class="- topic/p ">Open facebook app.</p>
+        </prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">1. This task describes the steps to post a status update in the facebook app.</p>
+            <p class="- topic/p ">2. Use this task to post a status update on your facebook account timeline and
+                newfeed.</p>
+            <p class="- topic/p ">3. If you want to post a status update on your facebook account timeline and
+                newsfeed, use this task.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tap the status button.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use the audience selector to control who can see your status update.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You have several options when posting a status. It can just be text or you can
+                    include a picture or a description of what you are doing.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you want people to know where you are, you can include a location.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If you want to include one or more of your friends, you can tag them in your
+                    status by tapping this button, then making your selection.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">When you are finished, tap Post.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_10_Connect_42_result_al2_vfg_5pb" nd:nd-id="result_al2_vfg_5pb">Your status update will appear on your timeline and
+            newsfeed.</result>
+        <example class="- topic/example ">
+            <image align="left" class="- topic/image " href="file:/C:/FinalProject/images/post%20status%20update%201.png" id="unique_10_Connect_42_image_c3g_wll_ypb" nd:nd-id="image_c3g_wll_ypb" placement="break" width="455" height="248" scale="50"/>
+        </example>
+    </taskbody>
+</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="sharing_types" oid="sharing_types" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Sharing Types</ph></title>
+    <shortdesc class="- topic/shortdesc ">status update, posting on friends' timeline, photos, links, feeling/activity,
+        location, likes, comments and resharing.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">
+                <image align="left" class="- topic/image " href="file:/C:/FinalProject/images/sharing%20types%201.png" id="unique_6_Connect_42_image_n2c_ckl_ypb" nd:nd-id="image_n2c_ckl_ypb" placement="break" width="455" height="340" scale="50"/>
+            </p>
+        </example>
+    </refbody>
+</reference><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="notification_types" oid="notification_types" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Notification Types</ph></title>
+    <shortdesc class="- topic/shortdesc ">push notifications, in-app notifications.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">
+                <image align="left" class="- topic/image " href="file:/C:/FinalProject/images/notification%20types%201.png" id="unique_11_Connect_42_image_xk1_fml_ypb" nd:nd-id="image_xk1_fml_ypb" placement="break" width="185" height="329" scale="50"/>
+            </p>
+        </example>
+    </refbody>
+</reference></map>

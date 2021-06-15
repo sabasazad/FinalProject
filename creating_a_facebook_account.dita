@@ -5,21 +5,29 @@
     <shortdesc>Create a Facebook Account in your Facebook App on your iPhone to use Facebook to
         share and connect with people and businesses.</shortdesc>
     <taskbody>
-        <prereq id="prereq_sdh_n42_wpb">Download Facebook app from the AppStore.<image
-                placement="break" href="images/download%20facebook%20app%20on%20iphone.png"
-                scale="50" align="left" id="image_knr_y5c_ypb" alt="App Store"/></prereq>
+        <prereq id="prereq_sdh_n42_wpb">
+            <p id="before_begin">Download Facebook app from the AppStore.</p>
+            <p>
+                <image placement="break" href="images/download%20facebook%20app%20on%20iphone.png"
+                    scale="50" align="left" id="image_knr_y5c_ypb" alt="App Store"/>
+            </p>
+        </prereq>
         <context>
             <p>1. Use the steps mentioned here to create a new facebook account on the facebook
                 app.</p>
-            <p>2. right task?</p>
-            <p>3. when/why?</p>
+            <p>2. Creating a new facebook account is necessary before you can use the facebook
+                app.</p>
+            <p>3. Facebook app requires you to create a free account in order to use their social
+                media application.</p>
         </context>
         <steps>
             <step>
                 <cmd>Tap the icon to start the App.</cmd>
             </step>
             <step>
-                <cmd>Tap Sign Up for Facebook.</cmd>
+                <cmd>Tap Sign Up for Facebook.<image placement="break"
+                        href="images/Create%20an%20account%20facebook.png" scale="50" align="left"
+                        id="image_bh2_2gl_ypb"/></cmd>
             </step>
             <step>
                 <cmd>Tap Get Started to Begin.</cmd>
@@ -49,7 +57,11 @@
                     now, you'll still be able to search and add friends at a later time.</cmd>
             </step>
         </steps>
-        <result id="result_fz2_s42_wpb"/>
-        <example/>
+        <result id="result_fz2_s42_wpb">You have a new facebook account. You can log in with this
+            new account.</result>
+        <example>
+            <image placement="break" href="images/Create%20an%20account%20facebook%202.png"
+                scale="50" align="left" id="image_kpm_pgl_ypb"/>
+        </example>
     </taskbody>
 </task>

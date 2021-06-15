@@ -2,17 +2,26 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="navigating_the_facebook_app">
     <title>Navigating the Facebook App</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This document shows the different navigation options available in the facebook
+        app.</shortdesc>
     <taskbody>
-        <prereq id="prereq_ls4_v42_wpb"/>
+        <prereq id="before_begin_nav">
+            <p conref="creating_a_facebook_account.dita#creating_a_facebook_account/before_begin"/>
+            <p>Open facebook app.<image placement="break"
+                    href="images/navigating%20facebook%20app%201.png" scale="50" align="left"
+                    id="image_jmt_mjl_ypb"/></p>
+            <p>Create a facebook user account.</p>
+        </prereq>
         <context>
-            <p>1.  goal?</p>
-            <p>2. right task?</p>
-            <p>3. when/why?</p>
+            <p>1. This task focuses on effectively navigationg through the different options
+                available in the facebook app.</p>
+            <p>2. This task can be used as a resource to share your status, photo or your location
+                in the facebook app.</p>
+            <p>3. These steps can be performed to navigate in the facebook app.</p>
         </context>
         <steps>
             <step>
-                <cmd>Locate the Navigation bar on in the App.</cmd>
+                <cmd>Locate the Navigation bar in the App.</cmd>
             </step>
             <step>
                 <cmd>Update your status using the status option.</cmd>
@@ -25,7 +34,9 @@
             </step>
             <step>
                 <cmd>Tap Search at the top of the screen to search for people, groups or
-                    organizations.</cmd>
+                        organizations.<image placement="break"
+                        href="images/search%20bar%20facebook.png" scale="50" align="left"
+                        id="image_ppm_gkl_ypb"/></cmd>
             </step>
             <step>
                 <cmd>This button allows you to accept Friend requests.</cmd>
@@ -43,7 +54,11 @@
                 <cmd>Go back to your news feed by tapping this button. </cmd>
             </step>
         </steps>
-        <result id="result_x1n_1p2_wpb"/>
-        <example/>
+        <result id="result_x1n_1p2_wpb">You now know the different sharing options avaiable it you
+            through the facebook app. </result>
+        <example>
+            <image placement="break" href="images/navigating%20facebook%20app%202.png" scale="50"
+                align="left" id="image_kzy_kkl_ypb"/>
+        </example>
     </taskbody>
 </task>

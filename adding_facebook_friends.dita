@@ -2,14 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_facebook_friends">
     <title>Adding Facebook Friends</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This document describes how to add facebook friends.</shortdesc>
     <taskbody>
         <prereq id="prereq_yv2_ndg_5pb">You should have your facebook profile or create one before
             you begin this task .</prereq>
         <context>
-            <p>1. goal?</p>
-            <p>2. right task?</p>
-            <p>3. when/why?</p>
+            <p>1. You can add new facebook friends using the steps mentioned in this task.</p>
+            <p>2. If you want to add new friends on facebook, use this task.</p>
+            <p>3. New facebook friends can be added to your facebook account using these steps.</p>
         </context>
         <steps>
             <step>
@@ -38,6 +38,9 @@
             </step>
         </steps>
         <result id="result_bcx_fp2_wpb"/>
-        <example/>
+        <example>
+            <image placement="break" href="images/facebook%20friends.png" scale="50" align="left"
+                id="image_ur1_cnl_ypb"/>
+        </example>
     </taskbody>
 </task>

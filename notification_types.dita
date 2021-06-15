@@ -3,5 +3,12 @@
 <reference id="notification_types">
     <title>Notification Types</title>
     <shortdesc>push notifications, in-app notifications.</shortdesc>
-    <refbody/>
+    <refbody>
+        <example>
+            <p>
+                <image placement="break" href="images/notification%20types%201.png" scale="50"
+                    align="left" id="image_xk1_fml_ypb"/>
+            </p>
+        </example>
+    </refbody>
 </reference>
