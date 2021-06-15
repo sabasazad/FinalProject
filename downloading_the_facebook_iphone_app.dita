@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="downloading_the_facebook_iphone_app">
+    <title>Downloading the Facebook iPhone App</title>
+    <shortdesc> Facebook iPhone App can be downloaded from the Apple AppStore.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_glq_gn2_wpb"/>
+        <context>
+            <p>1. This task will show you steps to download facebook iPhone App.</p>
+            <p>2. You need to download the Facebook App to use Facebook on an iPhone.</p>
+            <p>3. You will download the App to use Facebook on your iPhone to share and connect with
+                people and businesses. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To download the App, Search Facebook on the Apple AppStore.</cmd>
+            </step>
+            <step>
+                <cmd>Tap this (cloud with down arrow) button to begin downloading the App.</cmd>
+            </step>
+            <step>
+                <cmd>When the download is complete, Press the Open button or locate and tap the
+                    Facebook icon on the iPhone screen. </cmd>
+            </step>
+        </steps>
+        <result id="result_ysr_kn2_wpb">You have the Facebook App on your iPhone.</result>
+        <example><image href="images/apple-iphone-select-facebook-app.jpg" scale="50"
+                id="image_vgf_v5f_xpb"/></example>
+    </taskbody>
+</task>

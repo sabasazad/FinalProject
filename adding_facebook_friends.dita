@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_facebook_friends">
+    <title>Adding Facebook Friends</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq id="prereq_yv2_ndg_5pb">You should have your facebook profile or create one before
+            you begin this task .</prereq>
+        <context>
+            <p>1. goal?</p>
+            <p>2. right task?</p>
+            <p>3. when/why?</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Tap the friends button to see a list of people you may know.</cmd>
+            </step>
+            <step>
+                <cmd>If you see someone you know, you can send them a friend request by tapping
+                    Add.</cmd>
+            </step>
+            <step>
+                <cmd>Tap this button on top to see more options.</cmd>
+            </step>
+            <step>
+                <cmd>From here you can see Friend suggestions, Search for friends, Connect with
+                    friends through your contacts, and View your current friends.</cmd>
+            </step>
+            <step>
+                <cmd>You can respond to Friend requests here too.</cmd>
+            </step>
+            <step>
+                <cmd>To accept a friend request, tap Confirm.</cmd>
+            </step>
+            <step>
+                <cmd>You can tap for friends by tapping Search, then typing in a friend's
+                    name.</cmd>
+            </step>
+        </steps>
+        <result id="result_bcx_fp2_wpb"/>
+        <example/>
+    </taskbody>
+</task>

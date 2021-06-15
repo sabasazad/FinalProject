@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="navigation">
+    <title>Navigation</title>
+    <body>
+        <p>
+            <imagemap id="imagemap_zfq_wpp_xpb">
+                <image href="images/grid%2010.png" id="image_rsp_cpp_xpb"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>0, 0, 167, 248</coords>
+                    <xref href="navigating_the_facebook_app.dita" format="dita">navigating the
+                        facebook app</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>171, 7, 331, 245</coords>
+                    <xref href="downloading_the_facebook_iphone_app.dita" format="dita">downloading
+                        the facebook iphone app</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>342, 5, 568, 243</coords>
+                    <xref href="what_is_facebook.dita" format="dita">what is facebook?</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>576, 4, 736, 245</coords>
+                    <xref href="how_does_facebook_sharing_work.dita" format="dita">how does facebook
+                        sharing work?</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>739, 6, 888, 242</coords>
+                    <xref href="sharing_types.dita" format="dita">sharing types</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>4, 248, 167, 488</coords>
+                    <xref href="adding_facebook_friends.dita" format="dita">adding facebook
+                        friends</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>164, 247, 336, 493</coords>
+                    <xref href="creating_a_facebook_account.dita" format="dita">creating a facebook
+                        account</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>337, 249, 571, 489</coords>
+                    <xref href="why_use_facebook.dita" format="dita">why use facebook?</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>574, 253, 736, 496</coords>
+                    <xref href="posting_a_status_update.dita" format="dita">posting a status
+                        update</xref>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>742, 247, 889, 492</coords>
+                    <xref href="notification_types.dita" format="dita">notification types</xref>
+                </area>
+            </imagemap>
+        </p>
+    </body>
+</topic>

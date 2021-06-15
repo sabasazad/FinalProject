@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="how_does_facebook_sharing_work">
+    <title>How does Facebook sharing work?</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Facebook allows you to <b>send</b>
+            <b>messages </b>and<b> post status updates</b> to keep in touch with friends and family.
+            You can also share different types of content, like <b>photos </b>and<b> links</b>. But
+            sharing something on Facebook is a bit different from other types of online
+            communication. Unlike email or instant messaging, which are relatively private, the
+            things you share on Facebook are<b> more public</b>, which means they'll usually be seen
+            by many other people.</p>
+        <p>While Facebook offers privacy tools to help you limit who can see the things you share,
+            it's important to understand that Facebook is designed to be more <b>open and social</b>
+            than traditional communication tools. </p>
+    </conbody>
+</concept>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map collection-type="sequence">
+    <title>Facebook for iPhone App - User Guide</title>
+    <topicref href="navigation.dita"/>
+    <topicref href="what_is_facebook.dita"/>
+    <topicref href="why_use_facebook.dita"/>
+    <topicref href="downloading_the_facebook_iphone_app.dita"/>
+    <topicref href="creating_a_facebook_account.dita"/>
+    <topicref href="navigating_the_facebook_app.dita"/>
+    <topicref href="adding_facebook_friends.dita"/>
+    <topicref href="how_does_facebook_sharing_work.dita"/>
+    <topicref href="posting_a_status_update.dita"/>
+    <topicref href="sharing_types.dita"/>
+    <topicref href="notification_types.dita"/>
+</map>

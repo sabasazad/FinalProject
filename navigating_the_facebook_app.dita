@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="navigating_the_facebook_app">
+    <title>Navigating the Facebook App</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq id="prereq_ls4_v42_wpb"/>
+        <context>
+            <p>1.  goal?</p>
+            <p>2. right task?</p>
+            <p>3. when/why?</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate the Navigation bar on in the App.</cmd>
+            </step>
+            <step>
+                <cmd>Update your status using the status option.</cmd>
+            </step>
+            <step>
+                <cmd>Share a photo with the photo option.</cmd>
+            </step>
+            <step>
+                <cmd>Check-in at a location using the check-in option.</cmd>
+            </step>
+            <step>
+                <cmd>Tap Search at the top of the screen to search for people, groups or
+                    organizations.</cmd>
+            </step>
+            <step>
+                <cmd>This button allows you to accept Friend requests.</cmd>
+            </step>
+            <step>
+                <cmd>This button allows you to get messages.</cmd>
+            </step>
+            <step>
+                <cmd>This button allows you to get notifications.</cmd>
+            </step>
+            <step>
+                <cmd>This button brings you more options.</cmd>
+            </step>
+            <step>
+                <cmd>Go back to your news feed by tapping this button. </cmd>
+            </step>
+        </steps>
+        <result id="result_x1n_1p2_wpb"/>
+        <example/>
+    </taskbody>
+</task>

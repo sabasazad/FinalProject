@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_facebook_account">
+    <title>Creating a Facebook Account</title>
+    <shortdesc>Create a Facebook Account in your Facebook App on your iPhone to use Facebook to
+        share and connect with people and businesses.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_sdh_n42_wpb">Download Facebook app from the AppStore.<image
+                placement="break" href="images/download%20facebook%20app%20on%20iphone.png"
+                scale="50" align="left" id="image_knr_y5c_ypb" alt="App Store"/></prereq>
+        <context>
+            <p>1. Use the steps mentioned here to create a new facebook account on the facebook
+                app.</p>
+            <p>2. right task?</p>
+            <p>3. when/why?</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Tap the icon to start the App.</cmd>
+            </step>
+            <step>
+                <cmd>Tap Sign Up for Facebook.</cmd>
+            </step>
+            <step>
+                <cmd>Tap Get Started to Begin.</cmd>
+            </step>
+            <step>
+                <cmd>Enter an email address or phone number.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your name.</cmd>
+            </step>
+            <step>
+                <cmd>Create a password.</cmd>
+            </step>
+            <step>
+                <cmd>Next, you'll need to add some basic information about yourself.</cmd>
+            </step>
+            <step>
+                <cmd>Once you are finished, you'll have a chance to set your profile picture.</cmd>
+            </step>
+            <step>
+                <cmd>You can take a new picture or you can choose from one on your camera
+                    roll.</cmd>
+            </step>
+            <step>
+                <cmd>Finally, you'll have a chance to search for people you already know on Facebook
+                    so you can quickly begin adding friends. But if you decide to skip this step for
+                    now, you'll still be able to search and add friends at a later time.</cmd>
+            </step>
+        </steps>
+        <result id="result_fz2_s42_wpb"/>
+        <example/>
+    </taskbody>
+</task>

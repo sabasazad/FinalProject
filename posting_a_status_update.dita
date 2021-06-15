@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="posting_a_status_update">
+    <title>Posting a Status Update</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq id="prereq_rkv_3p2_wpb"/>
+        <context>
+            <p>1. goal?</p>
+            <p>2. right task?</p>
+            <p>3. when/why?</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Tap the status button.</cmd>
+            </step>
+            <step>
+                <cmd>Use the audience selector to control who can see your status update.</cmd>
+            </step>
+            <step>
+                <cmd>You have several options when posting a status. It can just be text or you can
+                    include a picture or a description of what you are doing.</cmd>
+            </step>
+            <step>
+                <cmd>If you want people to know where you are, you can include a location.</cmd>
+            </step>
+            <step>
+                <cmd>If you want to include one or more of your friends, you can tag them in your
+                    status by tapping this button, then making your selection.</cmd>
+            </step>
+            <step>
+                <cmd>When you are finished, tap Post.</cmd>
+            </step>
+        </steps>
+        <result id="result_al2_vfg_5pb">Your status update will appear on your timeline and
+            newsfeed.</result>
+        <example/>
+    </taskbody>
+</task>

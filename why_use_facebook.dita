@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="why_use_facebook">
+    <title>Why use Facebook?</title>
+    <shortdesc>Facebook can be used to connect and share with people and businesses.</shortdesc>
+    <conbody>
+        <p>Have you ever wondered why people like using Facebook? After all, there are already a lot
+            of other ways to communicate online, like through email, instant messaging, and so on.
+            What makes Facebook unique is the ability to <b>connect and share</b> with the people
+            you care about at the same time.</p>
+        <p>For many, having a Facebook account is now an expected part of being online, much like
+            having your own email address. And because Facebook is so popular, other websites have
+            worked to <b>integrate Facebook</b>. This means you can use a single Facebook account to
+            sign in to different services across the Web.</p>
+        <p><image href="images/why%20use%20facebook%201.png" scale="50" id="image_hwn_ysc_ypb"/></p>
+        <p><image href="images/why%20use%20facebook%202.png" scale="50" id="image_d4d_dtc_ypb"/></p>
+        <p><image href="images/why%20use%20facebook%203.png" scale="50" id="image_idh_ktc_ypb"/></p>
+    </conbody>
+</concept>
