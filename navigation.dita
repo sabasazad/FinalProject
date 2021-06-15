@@ -9,8 +9,9 @@
                 <area>
                     <shape>rect</shape>
                     <coords>0, 0, 167, 248</coords>
-                    <xref href="navigating_the_facebook_app.dita" format="dita">navigating the
-                        facebook app</xref>
+                    <xref
+                        href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sabasazad/FinalProject/main/out/html5/navigating_the_facebook_app.html"
+                        format="html" scope="external">navigating the facebook app</xref>
                 </area>
                 <area>
                     <shape>rect</shape>
